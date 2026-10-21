@@ -7,6 +7,22 @@ A complete web application combining a bilingual public website with dedicated w
 
 **[Visit the live website →](https://bethdinmishkanotyaakov.netlify.app/)**
 
+## Screenshots
+
+### Homepage — Hebrew interface
+
+<img width="1902" height="902" alt="Capture d&#39;écran 2026-10-21 164630" src="https://github.com/user-attachments/assets/9ef686fc-8439-4901-9dff-9218d4091480" />
+
+### Administration Dashboard
+
+<img width="1901" height="905" alt="image" src="https://github.com/user-attachments/assets/417a42ae-1d0a-4b82-bc0e-94e78d542622" />
+
+### Case Tracking
+*Demonstration case using fictional data.*
+
+<img width="1890" height="898" alt="image" src="https://github.com/user-attachments/assets/8f117a7e-665d-465e-b12c-2bc9ca247d5d" />
+
+
 ## My Role
 
 As the sole developer, I built the platform end to end: interface design, frontend development, database structure, authentication, access policies, backend workflows, payment integration, testing, and deployment.
